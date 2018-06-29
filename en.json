@@ -30,5 +30,10 @@
 	"Language changed": "Language changed",
 	"Success!": "Success!",
 	"Unsubscribed": "Unsubscribed",
+	"No data available, pull to refresh when you are online.": "No data available, pull to refresh when you are online.",
+	"Error getting posts.": "Error getting posts.",
+	"Favorite Removed": "Favorite Removed",
+	"No Favorites to show": "No Favorites to show",
+	"Favorite added": "Favorite added",
 	"Done": "Done"
 }
