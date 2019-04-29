@@ -1,4 +1,5 @@
 {
+	"Language Name": "English",
 	"Accept": "Accept",
 	"Activity": "Activity",
 	"Activity has been marked as flagged.": "Activity has been marked as flagged.",
@@ -47,7 +48,6 @@
 	"Joined group!": "Joined group!",
 	"Language": "Language",
 	"Language changed": "Language changed",
-	"Language Name": "English",
 	"Language Settings": "Language Settings",
 	"Last update": "Last update",
 	"Login": "Login",
